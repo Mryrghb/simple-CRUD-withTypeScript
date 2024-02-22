@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "lib": ["ES6"],
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "allowJs": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "rootDir": "src",
+        "outDir": "dist"
+    },
+    "include": ["src/**/*"]
+}

@@ -1,0 +1,19 @@
+[
+    {
+        "userId": 1000,
+        "id" : 100,
+        "taskTitle" : "work",
+        "taskDetail": "research about object in typeScript ",
+        "done": false
+},
+
+{
+        "userId": 1001,
+        "id" : 101,
+        "taskTitle" : "personal",
+        "taskDetail": "relaxing and run",
+        "done": false
+}
+
+
+]
